@@ -1,0 +1,29 @@
+{
+  "name": "semana-3-actividad-2",
+  "version": "1.0.0",
+  "description": "Actividad 2: Configuración e implementación básica con Node.js y Sequelize",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/test.js"
+  },
+  "keywords": [
+    "node",
+    "sequelize",
+    "crud",
+    "mysql",
+    "postgresql"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "sequelize": "^6.37.8",
+    "sqlite3": "^6.0.1"
+  },
+  "optionalDependencies": {
+    "mysql2": "^3.22.3",
+    "pg": "^8.20.0",
+    "pg-hstore": "^2.3.4"
+  }
+}
