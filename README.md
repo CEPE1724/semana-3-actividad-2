@@ -68,7 +68,7 @@ El servidor quedará escuchando en `http://localhost:3000`.
 
 ---
 
-Base URL: `http://localhost:3000/api/uisrael`
+Base URL: `http://localhost:3000/api/v1/uisrael`
 
 | Método | Ruta                        | Descripción                  |
 |--------|-----------------------------|------------------------------|
